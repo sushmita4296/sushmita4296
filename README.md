@@ -25,7 +25,7 @@ Hi there, I'm a Front-end Developer, brewing web applications with **_Js, React,
 ### Things you might wanna know
 - :telescope: <b>Working with:</b> Mentioned above **↑**
 - :seedling: <b>Getting better at:</b> Mentoring + Leading a team, Managing products
-- :thinking_face: <b>Exploring:</b> Meta-programming, generative UIs
+- ⚡ <b>Exploring:</b> Meta-programming, generative UIs
 - :alembic: <b>Experimenting on:</b> Next, ORM, Load balancing
 - :speech_balloon: <b>Ask me about:</b> CS, Music, Startup ideas
 ### Happy coding!
