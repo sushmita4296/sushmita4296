@@ -11,7 +11,7 @@ Hi there, I'm a Front-end Developer, brewing web applications with **_Js, React,
 ```json
 {
   "Actively working with": {
-      "lang": ["javaScript", "React", "Next"],
+      "lang": ["javaScript", "C", "php"],
       "cms": ["Wordpress", "contentstack", "drupal", "contentful"],
       "frontend": ["react", "next"],
       "styling": ["bootstrap", "bulma", "material-ui", "styled-components", "tailwind-css", "CSS3", "scss"],
